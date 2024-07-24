@@ -11,14 +11,16 @@ The data contains 45211 customer information with 17 variables including demogra
 ## 3. Problem Solving
 We provide solutions in two forms of analysis, namely descriptive and predictive analysis.
 
-**Descriptive Analysis** - 
+### 🔎 ***Descriptive Analysis*** 
 This analysis is done by building an interactive dashboard using Tableau Public on customer data. This dashboard provides information and an overview of the characteristics of customers who choose to subscribe to term deposits and those who do not.
 
-This dashboard can be accessed directly here at
-[UCI Machine Learning Bank Marketing](https://public.tableau.com/views/SpeakwithData_Tirta/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+![Dashboard](https://github.com/user-attachments/assets/970a1298-6b55-4a87-bebc-645be64d9b4e)
 
-**Predictive Analysis** -
-So that banks can make decisions regarding customers who have the potential to subscribe to term deposits, a classification model using machine learning is created. The model used is the Gradient Boosting Classifier which produces an accuracy value of 88.43%.
+This dashboard can be accessed directly here at
+**[Tableau Public Dashboard - UCI Machine Learning Bank Marketing](https://public.tableau.com/views/SpeakwithData_Tirta/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**.
+
+### 🔎 ***Predictive Analysis*** 
+So that banks can make decisions regarding customers who have the potential to subscribe to term deposits, a classification model using machine learning is created. The model used is the Gradient Boosting Classifier with **88.43% accuracy**.
 
 ## 4. Actionable Insights
 From the two analyzes carried out, the bank is expected to be able to carry out a comprehensive assessment that collaborates both approaches. Descriptive analysis will help banks find out customer characteristics based on their deposit behavior. From these results, banks can determine the right form of marketing according to the general description of the customer's personality. Meanwhile, predictive analysis will be able to cut energy and costs in marketing because with the predictive model built, banks will be able to group customers who have the potential to subscribe to deposits. In other words, marketing will be more targeted and effective.
